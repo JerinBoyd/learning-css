@@ -5,6 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Learning CSS</title>
+    <style>
+        p {
+            color:darksalmon 
+        }
+        div p {
+            color: black;
+            font-size: 22px;
+        }
+    </style>
 </head>
     <body>
         <!-- these are in line styles  and are the most difficult should be last ditch effort -->
@@ -16,5 +25,18 @@
                 border-right-color:aliceblue;
                 border-bottom-color:salmon;
                 border-style:dotted;">Gaudy Border</h1>
+
+        <!-- internal styles and are still page by page specific but are easier to maintain and easier to extract-->
+        <p>I like Cheese!</p>
+        <div>
+            <p>Maybe no cheese</p>
+            <p>I also like Pizza!</p>
+        </div>
+        <ul>
+            <li>Pepper Jack</li>
+            <li>Gouda</li>
+            <li>Cheddar</li>
+            <li>Swiss</li>
+        </ul>
     </body>
 </html>
