@@ -42,5 +42,6 @@
             border-left-color: chartreuse
         } .bd-rg-ab{
             border-right-color: aliceblue
-        } .bd-bt-sm{border-bottom-color: salmon}
+        } .bd-bt-sm{
+            border-bottom-color: salmon}
     
