@@ -1,0 +1,36 @@
+.bg-blue{
+   background-color: blue
+} 
+
+.big-box{
+    height: 30rem;
+    width: 30rem;
+    margin: 30%;
+    padding: 5%;
+}
+
+.bg-red{
+    background-color: red
+} 
+
+.med-box{
+    height: 16rem;
+    width: 16rem;
+    margin: 20%;
+    padding: 5%;
+}
+
+.bg-yw{  
+    background-color: yellow
+} 
+
+.sm-box  {
+    height: 7.5rem;
+    width: 7.5rem;
+    margin: 20%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    padding-left: 5%;
+
+}
+
