@@ -1,0 +1,35 @@
+.bg-blk{ 
+    background-color: blue;
+}
+
+
+.hw-box{ 
+    height: 5rem;
+    width: 70rem;           
+}
+
+.button{
+    display: inline-block;
+    border: .1rem solid black;
+    width: 21rem;
+    height: 4rem;
+    margin: .5%;
+    padding: .4%;
+    
+
+
+
+}
+
+.fc-wh{
+    color: white;
+}
+
+li.button a {
+    color: white;
+    text-decoration: none;
+}
+
+.bh{
+    height: 5rem;
+}
