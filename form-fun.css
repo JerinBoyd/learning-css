@@ -1,0 +1,17 @@
+.cen-wr{
+    position: relative;
+    text-align: center;
+}
+
+.cen-wr:before {
+    content: "";
+    position: relative;
+    display: inline-block;
+    width: 0; height: 100%;
+    vertical-align: middle;
+}
+.cen-con{
+    display: inline-block;
+    vertical-align: middle;
+    
+}
