@@ -11,8 +11,8 @@
 .button{
     display: inline-block;
     border: .1rem solid black;
-    width: 21rem;
-    height: 4rem;
+    width: 20rem;
+    height: 3.75rem;
     margin: .5%;
     padding: .4%;
     
@@ -32,4 +32,12 @@ li.button a {
 
 .bh{
     height: 5rem;
+}
+
+.text-h-cen{
+    text-align: center;
+}
+
+.text-v-cen{
+    line-height: 4rem;
 }
